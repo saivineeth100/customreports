@@ -1,0 +1,50 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"AHH-TDUx6i\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Extended Reports</span>\",\"col\":12}},{\"id\":\"mCDee2vfTm\",\"type\":\"card\",\"data\":{\"card_name\":\"Accounting\",\"col\":4}}]",
+ "creation": "2024-11-12 16:50:30.444385",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "table",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Extended Reports",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Accounting",
+   "link_count": 1,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Trial Balance",
+   "link_count": 0,
+   "link_to": "Trial Balance (ext)",
+   "link_type": "Report",
+   "onboard": 0,
+   "report_ref_doctype": "Account",
+   "type": "Link"
+  }
+ ],
+ "modified": "2024-11-12 16:54:21.451522",
+ "modified_by": "Administrator",
+ "module": "Accounts_Ext",
+ "name": "Extended Reports",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 28.0,
+ "shortcuts": [],
+ "title": "Extended Reports"
+}
