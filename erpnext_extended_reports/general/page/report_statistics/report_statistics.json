@@ -4,7 +4,7 @@
  "docstatus": 0,
  "doctype": "Page",
  "idx": 0,
- "modified": "2024-11-17 19:49:25.289775",
+ "modified": "2024-11-20 13:00:17.684755",
  "modified_by": "Administrator",
  "module": "General",
  "name": "report-statistics",
@@ -15,5 +15,5 @@
  "standard": "Yes",
  "style": null,
  "system_page": 0,
- "title": "Statistics R"
+ "title": "Statistics Report"
 }
