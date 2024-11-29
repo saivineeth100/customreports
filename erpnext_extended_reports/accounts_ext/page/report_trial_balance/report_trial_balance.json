@@ -1,0 +1,30 @@
+{
+ "content": null,
+ "creation": "2024-11-29 12:30:25.951997",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2024-11-29 12:30:25.951997",
+ "modified_by": "Administrator",
+ "module": "Accounts_Ext",
+ "name": "report-trial-balance",
+ "owner": "Administrator",
+ "page_name": "report-trial-balance",
+ "restrict_to_domain": "",
+ "roles": [
+  {
+   "role": "Accounts Manager"
+  },
+  {
+   "role": "Auditor"
+  },
+  {
+   "role": "Accounts User"
+  }
+ ],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Trial Balance(Ext)"
+}

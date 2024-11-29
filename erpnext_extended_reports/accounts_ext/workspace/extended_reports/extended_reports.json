@@ -1,6 +1,6 @@
 {
  "charts": [],
- "content": "[{\"id\":\"AHH-TDUx6i\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Extended Reports</span>\",\"col\":12}},{\"id\":\"5I20XzuXR0\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Statistics\",\"col\":3}}]",
+ "content": "[{\"id\":\"AHH-TDUx6i\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Extended Reports</span>\",\"col\":12}},{\"id\":\"5I20XzuXR0\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Trial Balance\",\"col\":3}}]",
  "creation": "2024-11-12 16:50:30.444385",
  "custom_blocks": [],
  "docstatus": 0,
@@ -13,7 +13,7 @@
  "is_hidden": 0,
  "label": "Extended Reports",
  "links": [],
- "modified": "2024-11-20 19:44:18.372352",
+ "modified": "2024-11-29 12:32:48.933116",
  "modified_by": "Administrator",
  "module": "Accounts_Ext",
  "name": "Extended Reports",
@@ -28,8 +28,8 @@
   {
    "color": "Grey",
    "doc_view": "List",
-   "label": "Statistics",
-   "link_to": "report-statistics",
+   "label": "Trial Balance",
+   "link_to": "report-trial-balance",
    "type": "Page"
   }
  ],
