@@ -1,4 +1,5 @@
-app_name = "erpnext_extended_reports"
+from .constants import *
+app_name = APP_NAME
 app_title = "Erpnext Extended Reports"
 app_publisher = "Sai Vineeth Tallapudi"
 app_description = "Extended Reports for ERPNext"
